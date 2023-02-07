@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    width: 800px;
+    height: 400px;
+    background: green;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+}
+.c3{
+    width: 150px;
+    height: 200px;
+    background: yellow;
+    position: relative;
+    bottom: 60px;
+
+}
+.c4{
+    width: 150px;
+    height: 200px;
+    background: rgb(27, 3, 240);
+    position: relative;
+    bottom: 60px;
+}
+.c5{
+    width: 150px;
+    height: 200px;
+    background: rgb(230, 12, 230);
+    position: relative;
+    bottom: 60px;
+}
+.c6{
+    width: 150px;
+    height: 200px;
+    background: rgb(7, 235, 166);
+    position: relative;
+    bottom: 60px;
+}
+.two{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+}
